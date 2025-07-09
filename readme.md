@@ -68,6 +68,7 @@ The final warehouse consists of:
 - `dim_date` — custom-built date dimension derived from the `date_recorded` column, used to enable time-based slicing in tools like Power BI
 - `Indexes` on frequently used joining columns(e.g. property_id) and some descriptive columns(e.g. property_type) to improve performance while querying data
 
+
 ###  Why Star Schema?
 
 A **star schema** is one of the most effective data modeling techniques in data warehousing for the following reasons:
@@ -87,20 +88,19 @@ Below is a diagram of the data warehouse:
 
 Even though this was primarily a data warehouse and ETL-focused project, I performed some analysis in **Power BI** to demonstrate the usefulness of the warehouse design for downstream reporting.
 
-###  Dashboard Screenshots
 
-###  COVID-Time Analysis
 
 ![COVID Analysis](pngs/Covid%20analysis.png)
 
 > This time-based analysis focuses on the period from **2018 to 2023**, capturing pre-COVID, during-COVID, and post-COVID patterns in the real estate market.
+
 
 ###  Key Insights
 
 1. A total of **$113B** in property sales occurred between 2018–2023, covering **44.84%** of the full dataset's timespan — highlighting the significant economic impact COVID had on real estate market behavior.
 Also, 
 
-2. **Residential** properties saw the highest average sale amount (~$450,000), followed by **Single Family** homes (~$380,000). This may reflect financial stress among property holders, as individuals potentially liquidated high-value assets during the COVID era.
+2. **Residential** properties saw the highest average sale amount (approx. $450,000), followed by **Single Family** homes (approx. $380,000). This may reflect financial stress among property holders, as individuals potentially liquidated high-value assets during the COVID era.
 
 3. All four quarters in both **2020** and **2021** had the **highest count of property sales** across all years — suggesting a spike in property transactions during COVID. These two years also emerged as **outliers** in the IQR distribution, indicating a burst-like activity in the housing market.
 
@@ -115,7 +115,23 @@ Also,
 
 
 
-> 📥 To view the full interactive dashboard, please download the Power BI file:  
+> To view the full interactive dashboard, please download the Power BI file:  
 [Download PBIX Report](dashboards/real%20estate%20dashboard.pbix)
 
 
+---
+
+## 🛠️ Tools Used
+
+- **Python (Pandas)** – for data cleaning and transformation  
+- **SQL (via SQLAlchemy)** – for loading and modeling data into a warehouse  
+- **Power BI** – for analysis and dashboarding
+
+---
+
+## 👨‍💻 Author
+
+Created by [Arit gon].  
+I’ll continue updating the dataset and dashboards over time to refine the analysis further.
+
+*Feedback, suggestions, or collaborations are always welcome!*
