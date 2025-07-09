@@ -1,0 +1,501 @@
+list_year,date_recorded,town,address,assessed_value,sale_amount,sales_ratio,property_type,residential_type,assessed_vs_sales_pct,assessed_outliers,sale_amount_outlier,town_outlier
+2020,2021-04-14,ansonia,323 beaver st,133000.0,248400.0,0.5354,residential,single family,86.77,Normal,normal,normal
+2020,2021-05-26,ansonia,152 jackson st,110500.0,239900.0,0.4606,residential,three family,117.1,Normal,normal,normal
+2020,2020-12-14,ansonia,57 platt st,127400.0,202500.0,0.6291,residential,two family,58.95,Normal,normal,normal
+2021,2022-06-20,avon,12 byron drive,179990.0,362500.0,0.4965,residential,condo,101.4,Normal,normal,normal
+2020,2021-09-07,avon,245 new road,217640.0,400000.0,0.5441,residential,single family,83.79,Normal,normal,normal
+2020,2020-12-15,avon,63 northgate,528490.0,775000.0,0.6819,residential,single family,46.64,IQR outlier,IQR outlier,normal
+2020,2021-06-01,barkhamsted,46 ratlum mtn rd,203530.0,415000.0,0.490433735,residential,single family,103.9,Normal,normal,normal
+2020,2021-01-25,beacon falls,34 lasky road,158030.0,243000.0,0.6503,residential,single family,53.77,Normal,normal,normal
+2020,2020-11-13,beacon falls,9 avon court,65590.0,100000.0,0.6559,residential,condo,52.46,Normal,normal,normal
+2020,2021-08-10,berlin,94 percival ave,140600.0,190790.0,0.7369,residential,single family,35.7,Normal,normal,normal
+2020,2021-04-21,bethel,16 oxford street,170800.0,307000.0,0.5563,residential,single family,79.74,Normal,normal,normal
+2020,2021-06-17,bethel,1308 lexington boulevard,195300.0,365000.0,0.535,residential,condo,86.89,Normal,normal,normal
+2020,2021-07-21,bethel,10 castle hill road,219870.0,325000.0,0.6765,residential,single family,47.81,Normal,normal,normal
+2020,2020-11-25,bethel,8 blackman avenue,264040.0,445000.0,0.5933,residential,two family,68.54,Normal,normal,normal
+2020,2020-10-21,bethlehem,34 highland road,82000.0,106000.0,0.7735,residential,single family,29.27,Normal,normal,normal
+2020,2021-05-10,bolton,39 stonehedge ln,189400.0,273750.0,0.6918,residential,single family,44.54,Normal,normal,normal
+2020,2021-02-22,branford,49 rose st towers unit 402,97800.0,147000.0,0.6653,residential,condo,50.31,Normal,normal,normal
+2020,2021-04-08,branford,460 main st,180500.0,355000.0,0.5084,residential,two family,96.68,Normal,normal,normal
+2020,2021-04-23,branford,24 collins dr,147000.0,290000.0,0.5068,residential,single family,97.28,Normal,normal,normal
+2020,2021-05-18,branford,61 palmer rd,219900.0,460000.0,0.478,residential,single family,109.19,Normal,normal,normal
+2020,2020-12-11,branford,3 grove ct,43400.0,86501.0,0.5017,residential,condo,99.31,Normal,normal,normal
+2020,2020-12-18,branford,69 church st,200900.0,320000.0,0.6278,residential,two family,59.28,Normal,normal,normal
+2020,2021-09-22,bristol,118 moody st,117950.0,240000.0,0.4914,residential,single family,103.48,Normal,normal,normal
+2020,2021-09-23,bristol,103 butternut ln,61950.0,129900.0,0.4769,residential,condo,109.69,Normal,normal,normal
+2020,2020-11-18,bristol,14 crest dr,150290.0,276000.0,0.5445,residential,single family,83.64,Normal,normal,normal
+2020,2021-03-19,bristol,50 rosemont ave,87500.0,175000.0,0.5,residential,single family,100.0,Normal,normal,normal
+2021,2022-08-30,bridgeport,126 kennedy dr,70850.0,130000.0,0.545,residential,condo,83.49,Normal,normal,town outlier
+2020,2021-07-13,bristol,17 lincoln st,102270.0,190000.0,0.5382,residential,two family,85.78,Normal,normal,normal
+2020,2021-07-22,bristol,28 hull st,130690.0,190000.0,0.6878,residential,three family,45.38,Normal,normal,normal
+2020,2020-11-04,brookfield,101 obtuse rd south,378680.0,537000.0,0.705176909,residential,single family,41.81,Normal,normal,normal
+2020,2021-02-02,burlington,57 rock rd,194670.0,275000.0,0.7078,residential,single family,41.26,Normal,normal,normal
+2020,2021-07-19,burlington,206 covey rd,286860.0,540000.0,0.5312,residential,single family,88.25,Normal,normal,normal
+2020,2021-05-27,canton,558 cherry brook road,125390.0,128000.0,0.9796,residential,single family,2.08,Normal,normal,normal
+2021,2022-09-12,bristol,"10 ebert dr., #52",78890.0,197000.0,0.4004,residential,condo,149.71,Normal,normal,normal
+2020,2021-08-20,cheshire,249 redwood lane,202590.0,425000.0,0.4766,residential,single family,109.78,Normal,normal,normal
+2020,2021-01-29,colchester,133 brainard rd,139200.0,292500.0,0.4758,residential,single family,110.13,Normal,normal,normal
+2020,2021-04-29,coventry,157 stonehouse rd,83400.0,65000.0,1.283,residential,single family,-22.06,Normal,normal,normal
+2020,2021-01-14,cromwell,25 midway dr,128200.0,208000.0,0.6163,residential,condo,62.25,Normal,normal,normal
+2020,2020-12-14,cromwell,11 mystique lane,210350.0,322000.0,0.6532,residential,condo,53.08,Normal,normal,normal
+2020,2021-01-13,danbury,27 crows nest la 6a,110300.0,195000.0,0.5656,residential,condo,76.79,Normal,normal,town outlier
+2021,2022-08-16,cheshire,290 towpath lane,264260.0,42500.0,6.2178,residential,single family,-83.92,Normal,normal,normal
+2020,2021-05-10,danbury,51 old boston post rd,191600.0,394000.0,0.4862,residential,single family,105.64,Normal,normal,town outlier
+2021,2022-05-27,coventry,307 sam green rd,144200.0,325000.0,0.4436,residential,single family,125.38,Normal,normal,normal
+2020,2021-08-24,danbury,305 larson dr,188600.0,360000.0,0.5238,residential,condo,90.88,Normal,normal,town outlier
+2020,2020-10-20,danbury,15 scuppo rd 803,161400.0,270000.0,0.5977,residential,condo,67.29,Normal,normal,town outlier
+2020,2020-11-24,danbury,18 king st,203400.0,309000.0,0.6582,residential,single family,51.92,Normal,normal,town outlier
+2020,2021-02-03,darien,14 gideon lane,114170.0,184499.0,0.6188,residential,condo,61.6,Normal,normal,normal
+2020,2021-03-17,darien,12 sunnyside ave,602980.0,650000.0,0.9276,residential,single family,7.8,IQR outlier,normal,normal
+2020,2020-11-16,darien,16 oakshade ave,746220.0,1140000.0,0.6545,residential,single family,52.77,IQR outlier,IQR outlier,normal
+2020,2021-07-14,east granby,6 schoolhouse landing,211100.0,373500.0,0.5651,residential,condo,76.93,Normal,normal,normal
+2020,2020-12-30,east granby,17 bonnieview drive,148200.0,260000.0,0.57,residential,single family,75.44,Normal,normal,normal
+2020,2021-05-10,east haddam,96 longwood dr,83020.0,175000.0,0.4744,residential,single family,110.79,Normal,normal,normal
+2020,2021-09-29,east haddam,162 norwich salem rd,219810.0,439900.0,0.4996,residential,single family,100.13,Normal,normal,normal
+2020,2021-03-19,east hartford,9 rose st,90680.0,95001.0,0.9545,residential,single family,4.77,Normal,normal,normal
+2020,2021-04-19,east hartford,37 pendleton dr,113530.0,225000.0,0.5045,residential,single family,98.19,Normal,normal,normal
+2020,2021-06-24,east hartford,257 prospect st,83850.0,128000.0,0.655,residential,single family,52.65,Normal,normal,normal
+2020,2021-08-04,east hartford,31 margery dr,107390.0,260000.0,0.413,residential,single family,142.11,Normal,normal,normal
+2020,2021-09-14,east hartford,2 lafayette ave,87380.0,235000.0,0.3718,residential,single family,168.94,Normal,normal,normal
+2020,2020-10-16,east hartford,54 olmsted st,91210.0,160000.0,0.57,residential,single family,75.42,Normal,normal,normal
+2020,2020-12-02,east hartford,101 laurel st,135990.0,215000.0,0.6325,residential,two family,58.1,Normal,normal,normal
+2020,2021-01-04,east haven,116 pleasant ave,149030.0,360500.0,0.4133,residential,single family,141.9,Normal,normal,normal
+2020,2021-04-05,east haven,75 redwood dr #704,89580.0,165000.0,0.5429,residential,condo,84.19,Normal,normal,normal
+2020,2021-04-13,east haven,19 farview ave,146250.0,291000.0,0.5025,residential,single family,98.97,Normal,normal,normal
+2020,2021-05-13,east haven,15 elm ct,108350.0,247000.0,0.4386,residential,single family,127.96,Normal,normal,normal
+2020,2020-12-07,east haven,6 wheaton rd,160060.0,275000.0,0.582,residential,single family,71.81,Normal,normal,normal
+2020,2021-01-12,east lyme,38 gurley rd,159460.0,243000.0,0.6562,residential,two family,52.39,Normal,normal,normal
+2020,2021-09-29,east lyme,8 winthrop dr,219100.0,475000.0,0.4612,residential,single family,116.8,Normal,normal,normal
+2020,2021-01-29,easton,95 rock house road,275960.0,370000.0,0.7458,residential,single family,34.08,Normal,normal,normal
+2020,2021-04-28,enfield,38 raffia rd,107210.0,205000.0,0.5229,residential,single family,91.21,Normal,normal,normal
+2020,2021-05-27,enfield,51 dartmoor,180480.0,330000.0,0.5469,residential,condo,82.85,Normal,normal,normal
+2020,2021-07-27,enfield,1 vernon rd,116790.0,252000.0,0.4634,residential,single family,115.77,Normal,normal,normal
+2020,2021-09-24,enfield,hamlet b03uf,88610.0,189900.0,0.4666,residential,condo,114.31,Normal,normal,normal
+2020,2020-11-09,enfield,197 brainard rd,111550.0,206000.0,0.5415,residential,single family,84.67,Normal,normal,normal
+2020,2021-01-12,essex,34 pratt #a,623900.0,650000.0,0.9598,residential,condo,4.18,IQR outlier,normal,normal
+2020,2021-05-11,essex,17 partridge ln,246800.0,575000.0,0.4292,residential,single family,132.98,Normal,normal,normal
+2020,2021-07-15,essex,13 walnut st,197500.0,400000.0,0.4937,residential,single family,102.53,Normal,normal,normal
+2020,2020-11-30,farmington,11 whitehall place,491890.0,765000.0,0.6429,residential,single family,55.52,IQR outlier,IQR outlier,normal
+2020,2021-04-08,glastonbury,63 fox den rd,247000.0,399000.0,0.619,residential,single family,61.54,Normal,normal,normal
+2020,2021-07-26,glastonbury,42 bell st,161300.0,315000.0,0.512,residential,single family,95.29,Normal,normal,normal
+2020,2021-09-07,glastonbury,87 benton ln,172800.0,345000.0,0.5008,residential,single family,99.65,Normal,normal,normal
+2020,2021-06-07,goshen,44 rockwall court,322150.0,628000.0,0.5129,residential,single family,94.94,Normal,normal,normal
+2021,2022-08-22,glastonbury,23 adenas walk,294500.0,500000.0,0.589,residential,condo,69.78,Normal,normal,normal
+2020,2021-07-13,granby,15 windmill dr,112350.0,199000.0,0.5645,residential,condo,77.13,Normal,normal,normal
+2020,2021-02-16,greenwich,2350000,1964480.0,2350000.0,0.8359,residential,single family,19.62,IQR outlier,IQR outlier,town outlier
+2020,2021-03-05,greenwich,10 nimitz place,548800.0,870000.0,0.6308,residential,single family,58.53,IQR outlier,IQR outlier,town outlier
+2020,2021-04-22,greenwich,188 bible street,737590.0,1364000.0,0.5407,residential,single family,84.93,IQR outlier,IQR outlier,town outlier
+2021,2022-02-04,hamden,125 park rd,112140.0,200000.0,0.5607,residential,single family,78.35,Normal,normal,town outlier
+2020,2021-09-09,greenwich,15 shoal point road,2623950.0,3900000.0,0.6728,residential,single family,48.63,IQR outlier,IQR outlier,town outlier
+2020,2020-12-18,greenwich,328 lake avenue,1908690.0,2850000.0,0.6697,residential,single family,49.32,IQR outlier,IQR outlier,town outlier
+2020,2020-12-09,greenwich,9 west end ave,1329090.0,1920000.0,0.6922,residential,single family,44.46,IQR outlier,IQR outlier,town outlier
+2020,2021-06-21,griswold,33 russel street unit 10,47180.0,123800.0,0.381098546,residential,condo,162.4,Normal,normal,normal
+2021,2021-11-26,hamden,365 mather st u212,76790.0,180000.0,0.4266,residential,condo,134.41,Normal,normal,town outlier
+2020,2021-07-07,groton,7 forest ave,166040.0,330000.0,0.5031,residential,single family,98.75,Normal,normal,normal
+2020,2021-08-11,groton,18 bern ct,110810.0,260000.0,0.426192308,residential,single family,134.64,Normal,normal,normal
+2020,2021-09-27,groton,84 beach pond rd,297360.0,670000.0,0.4438,residential,single family,125.32,Normal,normal,normal
+2020,2020-10-19,groton,48 crest dr,123410.0,260000.0,0.474653846,residential,single family,110.68,Normal,normal,normal
+2020,2020-12-11,groton,31 thames height ln,109340.0,160000.0,0.6833,residential,condo,46.33,Normal,normal,normal
+2020,2020-10-29,guilford,45 round hill rd,186910.0,252000.0,0.7417,residential,single family,34.82,Normal,normal,normal
+2021,2021-10-25,litchfield,301 cathole rd,156530.0,350000.0,0.4472,residential,single family,123.6,Normal,normal,normal
+2020,2021-07-29,hartford,30 ashley st,107530.0,350000.0,0.3072,residential,two family,225.49,Normal,normal,normal
+2020,2021-03-11,killingly,62 athol st,55860.0,102000.0,0.5476,residential,condo,82.6,Normal,normal,normal
+2021,2022-09-12,middletown,48 david dr,201980.0,395000.0,0.5113,residential,single family,95.56,Normal,normal,normal
+2020,2020-12-09,killingworth,46 titus coan road,354040.0,645000.0,0.5488,residential,single family,82.18,Normal,normal,normal
+2020,2021-02-18,lebanon,54 first st,121510.0,229900.0,0.5285,residential,single family,89.2,Normal,normal,normal
+2020,2020-10-05,lisbon,24 blissville rd,127230.0,190000.0,0.6696,residential,single family,49.34,Normal,normal,normal
+2020,2020-10-05,litchfield,577 maple st,207690.0,345000.0,0.602,residential,single family,66.11,Normal,normal,normal
+2020,2020-11-16,litchfield,68 beach st,149570.0,200000.0,0.7478,residential,two family,33.72,Normal,normal,normal
+2020,2021-02-25,madison,34 fairview ave,1298800.0,2175000.0,0.5971,residential,single family,67.46,IQR outlier,IQR outlier,normal
+2020,2021-04-05,madison,32 jefferson park rd,257800.0,475000.0,0.5427,residential,single family,84.25,Normal,normal,normal
+2020,2021-09-08,madison,2162 durham rd,260200.0,501000.0,0.5193,residential,single family,92.54,Normal,normal,normal
+2020,2021-01-19,manchester,63 pitkin street,124900.0,249900.0,0.4997,residential,single family,100.08,Normal,normal,normal
+2020,2021-08-04,manchester,151 maple street,92900.0,165000.0,0.563,residential,single family,77.61,Normal,normal,normal
+2020,2021-09-03,manchester,236 west center street,103300.0,210000.0,0.4919,residential,single family,103.29,Normal,normal,normal
+2021,2022-08-25,new britain,69 james ave,96110.0,238000.0,0.4038,residential,single family,147.63,Normal,normal,normal
+2020,2020-10-07,manchester,53 north street,173900.0,250000.0,0.6956,residential,four family,43.76,Normal,normal,normal
+2020,2021-03-02,mansfield,42 sawmill brook rd,279000.0,435000.0,0.6413,residential,single family,55.91,Normal,normal,normal
+2020,2021-06-25,mansfield,5 mountain rd,145300.0,250000.0,0.5812,residential,single family,72.06,Normal,normal,normal
+2020,2021-08-26,mansfield,40 old kent rd,155900.0,284400.0,0.5481,residential,single family,82.42,Normal,normal,normal
+2020,2020-12-21,mansfield,23 philip dr,194900.0,307000.0,0.6348,residential,single family,57.52,Normal,normal,normal
+2020,2021-07-01,meriden,52 royal oak cir,130340.0,305000.0,0.4273,residential,single family,134.0,Normal,normal,normal
+2020,2021-07-16,meriden,209 blackstone vlg,37240.0,114900.0,0.3241,residential,condo,208.54,Normal,normal,normal
+2020,2021-08-16,meriden,30 la mirage,74060.0,145000.0,0.5107,residential,condo,95.79,Normal,normal,normal
+2020,2021-08-26,meriden,6006 meetinghouse vlg,59430.0,135000.0,0.4402,residential,condo,127.16,Normal,normal,normal
+2020,2021-06-09,middlebury,289 burr hall rd,1144200.0,1676250.0,0.682595078,residential,single family,46.5,IQR outlier,IQR outlier,normal
+2020,2021-04-05,middletown,87 westwood la,285040.0,400000.0,0.7126,residential,single family,40.33,Normal,normal,normal
+2021,2022-06-08,new haven,24 woodward av #1,73570.0,105300.0,0.6986,residential,condo,43.13,Normal,normal,town outlier
+2020,2020-11-02,middletown,1692 bartholomew rd,170650.0,325000.0,0.525,residential,single family,90.45,Normal,normal,normal
+2020,2020-12-01,middletown,23 willow ave,106640.0,162900.0,0.6546,residential,single family,52.76,Normal,normal,normal
+2020,2020-12-07,milford,51 carriage dr,87590.0,170000.0,0.5152,residential,condo,94.09,Normal,normal,normal
+2020,2021-06-22,milford,95 forest rd,165000.0,300000.0,0.55,residential,condo,81.82,Normal,normal,normal
+2020,2021-02-19,monroe,22 field rock rd,325100.0,500000.0,0.6502,residential,single family,53.8,Normal,normal,normal
+2020,2021-04-12,montville,1691 route 32 unit e6,84600.0,130000.0,0.6507,residential,condo,53.66,Normal,normal,normal
+2020,2020-10-14,montville,45 oak hill rd,129810.0,240000.0,0.5408,residential,single family,84.89,Normal,normal,normal
+2020,2021-03-26,naugatuck,191 gorman st,135520.0,255000.0,0.5314,residential,single family,88.16,Normal,normal,normal
+2020,2021-05-18,naugatuck,33 fairchild st,98900.0,184500.0,0.536,residential,single family,86.55,Normal,normal,normal
+2020,2021-06-21,naugatuck,255 park ave,126630.0,301000.0,0.420697674,residential,single family,137.7,Normal,normal,normal
+2020,2021-01-04,new britain,13 lasalle st,63630.0,65000.0,0.9789,residential,single family,2.15,Normal,normal,normal
+2020,2021-03-31,new britain,190 wynola ave,117670.0,270000.0,0.4358,residential,two family,129.46,Normal,normal,normal
+2020,2021-07-12,new britain,36-e north mountain rd,63560.0,135000.0,0.4708,residential,condo,112.4,Normal,normal,normal
+2020,2021-07-20,new britain,203 fairway dr,104370.0,160000.0,0.6523,residential,single family,53.3,Normal,normal,normal
+2020,2020-10-15,new britain,320 lewis rd,127610.0,182500.0,0.6992,residential,condo,43.01,Normal,normal,normal
+2020,2021-04-07,new canaan,43 jennifer la,978670.0,1700000.0,0.5756,residential,single family,73.71,IQR outlier,IQR outlier,normal
+2021,2022-08-17,norwalk,5 white barns rd,884650.0,1540000.0,0.5744,residential,condo,74.08,IQR outlier,IQR outlier,town outlier
+2020,2020-12-30,new canaan,134 marshall ridge rd,705110.0,1410000.0,0.5,residential,single family,99.97,IQR outlier,IQR outlier,normal
+2020,2021-04-15,new fairfield,10 hilltop,187500.0,395000.0,0.4746,residential,single family,110.67,Normal,normal,normal
+2020,2021-01-14,new haven,50 anita st,156170.0,250000.0,0.6246,residential,single family,60.08,Normal,normal,town outlier
+2020,2021-04-19,new haven,26 lyon st,185360.0,360000.0,0.5148,residential,three family,94.22,Normal,normal,town outlier
+2020,2021-06-07,new haven,97 harbour close,116410.0,230000.0,0.5061,residential,condo,97.58,Normal,normal,town outlier
+2021,2022-07-11,old saybrook,367 main st unit 6,295300.0,495000.0,0.5965,residential,condo,67.63,Normal,normal,normal
+2020,2020-12-07,new haven,225 quinnipiac av,103320.0,280000.0,0.369,residential,two family,171.0,Normal,normal,town outlier
+2020,2020-12-11,new haven,140 everit st,480620.0,685000.0,0.7016,residential,single family,42.52,IQR outlier,normal,town outlier
+2020,2021-09-20,new london,184 pequot ave unit 103,103250.0,159900.0,0.6457,residential,condo,54.87,Normal,normal,normal
+2020,2021-07-30,newtown,9 alpine circle,140570.0,300000.0,0.4685,residential,single family,113.42,Normal,normal,normal
+2020,2021-08-30,newtown,157 hanover road,325640.0,508000.0,0.641,residential,single family,56.0,Normal,normal,normal
+2020,2020-10-27,newtown,17 narragansset trail,249860.0,463000.0,0.5396,residential,single family,85.3,Normal,normal,normal
+2020,2020-11-18,newtown,1 watkins drive,232200.0,350000.0,0.6634,residential,condo,50.73,Normal,normal,normal
+2021,2022-04-18,portland,25 hilltop dr,198520.0,326000.0,0.6089,residential,single family,64.22,Normal,normal,normal
+2020,2021-02-02,north haven,20 cloudland rd,178070.0,245000.0,0.7268,residential,single family,37.59,Normal,normal,normal
+2020,2020-12-01,north haven,26 nettleton ave,135740.0,203000.0,0.6686,residential,single family,49.55,Normal,normal,normal
+2020,2021-04-21,norwalk,2 terry ln unit 2,168670.0,295000.0,0.5717,residential,condo,74.9,Normal,normal,town outlier
+2020,2021-05-04,norwalk,238 rowayton ave,461440.0,805000.0,0.5732,residential,single family,74.45,IQR outlier,IQR outlier,town outlier
+2020,2021-06-18,norwalk,2 cornwall rd,302270.0,587500.0,0.514502128,residential,single family,94.36,Normal,normal,town outlier
+2021,2022-08-19,ridgefield,30 glen rd,311860.0,619000.0,0.5038,residential,condo,98.49,Normal,normal,normal
+2020,2021-09-01,norwalk,2 south main st unit w201,147600.0,235000.0,0.628,residential,condo,59.21,Normal,normal,town outlier
+2020,2020-11-04,norwalk,161 silvermine ave,384990.0,600000.0,0.6416,residential,single family,55.85,Normal,normal,town outlier
+2020,2020-12-09,norwalk,62 glenrock,217540.0,330000.0,0.6592,residential,condo,51.7,Normal,normal,town outlier
+2020,2020-12-11,norwalk,11 bedford ave unit j1,109310.0,178000.0,0.6141,residential,condo,62.84,Normal,normal,town outlier
+2020,2021-03-02,norwich,38 hooper st #6,84400.0,136500.0,0.6183,residential,condo,61.73,Normal,normal,normal
+2020,2021-04-16,norwich,45 weber farm rd,203700.0,335000.0,0.608,residential,single family,64.46,Normal,normal,normal
+2020,2020-10-29,norwich,21 huntington pl,133900.0,215000.0,0.6227,residential,two family,60.57,Normal,normal,normal
+2021,2022-07-20,somers,49 stafford rd,219900.0,415000.0,0.5298,residential,single family,88.72,Normal,normal,normal
+2020,2021-04-01,old lyme,146-1 boston post rd,124700.0,220000.0,0.5668,residential,single family,76.42,Normal,normal,normal
+2020,2021-08-30,old lyme,34-5 pond rd,416000.0,660000.0,0.6303,residential,condo,58.65,Normal,normal,normal
+2020,2021-02-23,old saybrook,514 main st,742600.0,1275000.0,0.5824,residential,single family,71.69,IQR outlier,IQR outlier,normal
+2020,2021-05-28,old saybrook,175 ferry rd unit 9,246500.0,490000.0,0.503,residential,condo,98.78,Normal,normal,normal
+2020,2020-12-23,old saybrook,380 main st,323500.0,825000.0,0.3921,residential,single family,155.02,Normal,IQR outlier,normal
+2020,2021-06-14,orange,605 dogwood rd,283200.0,500000.0,0.5664,residential,single family,76.55,Normal,normal,normal
+2020,2021-07-13,orange,436 wildwood dr,240300.0,385000.0,0.6241,residential,single family,60.22,Normal,normal,normal
+2020,2020-12-03,plainfield,219 spaulding rd,153660.0,290000.0,0.529862069,residential,single family,88.73,Normal,normal,normal
+2020,2021-08-16,plainville,492 east st b-36,41090.0,89900.0,0.457,residential,condo,118.79,Normal,normal,normal
+2020,2021-07-16,putnam,110 pomfret st,95100.0,175000.0,0.5434,residential,three family,84.02,Normal,normal,normal
+2021,2022-04-01,stamford,241 hamilton avenue #72,198520.0,360000.0,0.5514,residential,condo,81.34,Normal,normal,town outlier
+2020,2021-01-22,rocky hill,39 stevens place,108360.0,178000.0,0.6087,residential,condo,64.27,Normal,normal,normal
+2020,2021-06-10,rocky hill,402 the mews,120890.0,234900.0,0.5146,residential,condo,94.31,Normal,normal,normal
+2020,2021-07-01,rocky hill,302 briarwood court,110810.0,185000.0,0.5989,residential,condo,66.95,Normal,normal,normal
+2020,2020-10-22,rocky hill,59 highcrest drive,128870.0,193000.0,0.6677,residential,condo,49.76,Normal,normal,normal
+2021,2022-08-02,stamford,8 wardwell street #2,92880.0,110000.0,0.8443,residential,condo,18.43,Normal,normal,town outlier
+2020,2020-10-21,salem,109 music vale rd,150600.0,230000.0,0.6547,residential,single family,52.72,Normal,normal,normal
+2020,2021-09-20,shelton,176-178 howe ave,156380.0,400000.0,0.3909,residential,two family,155.79,Normal,normal,normal
+2020,2020-10-29,shelton,27 rouleau la,254560.0,500500.0,0.5086,residential,single family,96.61,Normal,normal,normal
+2020,2021-04-07,shelton,63 greystone on the lake,242410.0,399901.0,0.6061,residential,condo,64.97,Normal,normal,normal
+2021,2021-10-25,sterling,7 sterling ridge lane,115010.0,270000.0,0.425962963,residential,condo,134.76,Normal,normal,normal
+2020,2020-11-18,simsbury,7 timber ridge drive,228250.0,350000.0,0.6521,residential,single family,53.34,Normal,normal,normal
+2021,2022-05-11,stratford,100 woodcrest avenue,135870.0,350000.0,0.3882,residential,single family,157.6,Normal,normal,town outlier
+2020,2020-10-05,southbury,996 a heritage village,94840.0,175000.0,0.5419,residential,condo,84.52,Normal,normal,normal
+2020,2021-03-05,south windsor,70 ronda dr,136600.0,310000.0,0.4406,residential,single family,126.94,Normal,normal,normal
+2020,2021-06-09,south windsor,107 troy rd,162400.0,325000.0,0.4996,residential,single family,100.12,Normal,normal,normal
+2021,2022-01-14,torrington,187 lovers ln unit 56,39590.0,110000.0,0.3599,residential,condo,177.85,Normal,normal,normal
+2020,2021-06-10,stamford,49 glenbrook road #302,151670.0,275000.0,0.5515,residential,condo,81.31,Normal,normal,town outlier
+2020,2020-12-04,stamford,165 seaside avenue #2,309550.0,405000.0,0.7643,residential,condo,30.84,Normal,normal,town outlier
+2020,2021-08-06,stamford,3 dean street #b-2,90520.0,178000.0,0.5085,residential,condo,96.64,Normal,normal,town outlier
+2020,2021-01-11,stonington,26 garden st,120500.0,224000.0,0.5379,residential,single family,85.89,Normal,normal,normal
+2020,2021-04-01,stratford,30 baxter street,189840.0,339000.0,0.56,residential,single family,78.57,Normal,normal,town outlier
+2020,2021-06-15,stratford,53 ashwood terrace,295540.0,575000.0,0.5139,residential,single family,94.56,Normal,normal,town outlier
+2020,2021-09-22,stratford,50 meadowlark lane,180670.0,385000.0,0.4692,residential,single family,113.1,Normal,normal,town outlier
+2021,2022-08-30,waterbury,98 ledgeside ave,71090.0,178500.0,0.3982,residential,single family,151.09,Normal,normal,town outlier
+2020,2021-03-18,suffield,550 n main st,192640.0,350000.0,0.5504,residential,single family,81.69,Normal,normal,normal
+2020,2021-06-15,suffield,37 gooseberry dr,245350.0,399718.0,0.6138,residential,condo,62.92,Normal,normal,normal
+2020,2020-10-14,suffield,1190 newgate rd,188930.0,340000.0,0.5556,residential,single family,79.96,Normal,normal,normal
+2020,2021-08-02,thomaston,4 ellen ln,202090.0,390000.0,0.5181,residential,single family,92.98,Normal,normal,normal
+2020,2020-12-14,thomaston,3 bradley way,133210.0,289900.0,0.4595,residential,condo,117.63,Normal,normal,normal
+2020,2020-12-20,tolland,h2 tolland meadows,55200.0,90000.0,0.6133,residential,condo,63.04,Normal,normal,normal
+2021,2022-09-15,watertown,130 belden st,128900.0,290000.0,0.4444,residential,single family,124.98,Normal,normal,normal
+2020,2020-10-22,torrington,17 canterbury ct,109360.0,194000.0,0.5637,residential,single family,77.4,Normal,normal,normal
+2021,2021-10-21,new london,869 montauk ave,127960.0,313000.0,0.4088,residential,single family,144.61,Normal,normal,normal
+2020,2020-12-03,torrington,343 aetna ave,103780.0,125000.0,0.8302,residential,single family,20.45,Normal,normal,normal
+2020,2020-12-21,torrington,54 iowa st,86880.0,90000.0,0.9653,residential,two family,3.59,Normal,normal,normal
+2020,2021-02-22,trumbull,8 spinning wheel rd,323890.0,585000.0,0.5536,residential,single family,80.62,Normal,normal,normal
+2020,2021-05-04,trumbull,36 farmstead ln,414960.0,720000.0,0.5763,residential,single family,73.51,Normal,normal,normal
+2020,2021-08-09,trumbull,191 teller rd,247520.0,485000.0,0.5103,residential,single family,95.94,Normal,normal,normal
+2021,2022-04-19,waterbury,22 lisa court #1,30850.0,66000.0,0.4674,residential,condo,113.94,Normal,normal,town outlier
+2020,2021-09-02,trumbull,46 regency cir,301980.0,550000.0,0.549,residential,condo,82.13,Normal,normal,normal
+2020,2020-10-26,trumbull,103 cider mill lane,215270.0,425000.0,0.5065,residential,condo,97.43,Normal,normal,normal
+2020,2021-05-04,vernon,100 hillside avenue,122330.0,220000.0,0.556,residential,single family,79.84,Normal,normal,normal
+2020,2021-07-19,vernon,70-343 old town rd,100780.0,170000.0,0.5928,residential,condo,68.68,Normal,normal,normal
+2020,2021-09-08,vernon,21 east st,119440.0,192150.0,0.6215,residential,single family,60.88,Normal,normal,normal
+2020,2020-12-01,vernon,53 hany ln,156130.0,230000.0,0.6788,residential,single family,47.31,Normal,normal,normal
+2020,2020-11-02,washington,66 calhoun st,593410.0,1275000.0,0.4654,residential,single family,114.86,IQR outlier,IQR outlier,normal
+2020,2021-03-17,waterbury,20 morton rd,82370.0,145000.0,0.568,residential,single family,76.03,Normal,normal,town outlier
+2021,2022-02-01,westport,3 pritchard lane,1303400.0,2780000.0,0.4688,residential,single family,113.29,IQR outlier,IQR outlier,normal
+2020,2021-04-20,waterbury,76 oak st,33280.0,160000.0,0.208,residential,three family,380.77,Normal,normal,town outlier
+2020,2021-05-10,waterbury,35 edson ave,101000.0,298000.0,0.3389,residential,three family,195.05,Normal,normal,town outlier
+2021,2022-02-04,wethersfield,82 dale rd,139750.0,235000.0,0.5946,residential,single family,68.16,Normal,normal,normal
+2020,2021-09-01,waterbury,142 fairmount st,69180.0,110000.0,0.6289,residential,single family,59.01,Normal,normal,town outlier
+2020,2021-09-21,waterbury,199 pearl lake rd,66850.0,200000.0,0.3342,residential,single family,199.18,Normal,normal,town outlier
+2020,2020-10-20,waterbury,50 barrington lane,92120.0,195000.0,0.4724,residential,single family,111.68,Normal,normal,town outlier
+2020,2020-11-17,waterbury,20 cheryl dr,91270.0,101000.0,0.9036,residential,single family,10.66,Normal,normal,town outlier
+2020,2021-06-18,waterford,4 donna st,271240.0,710000.0,0.382,residential,single family,161.76,Normal,normal,normal
+2020,2021-07-21,waterford,12 center rd,169450.0,300000.0,0.5648,residential,single family,77.04,Normal,normal,normal
+2020,2021-04-19,watertown,143 falls ave,140600.0,269900.0,0.5209,residential,two family,91.96,Normal,normal,normal
+2020,2021-05-26,watertown,15 cottage pl,124900.0,230000.0,0.543,residential,two family,84.15,Normal,normal,normal
+2020,2021-07-13,watertown,245 cherry ave a24,51900.0,140000.0,0.3707,residential,condo,169.75,Normal,normal,normal
+2020,2021-08-13,watertown,84 east st,126200.0,260000.0,0.4853,residential,single family,106.02,Normal,normal,normal
+2020,2021-09-24,watertown,184 platt rd,343900.0,925000.0,0.3717,residential,single family,168.97,Normal,IQR outlier,normal
+2021,2022-07-05,windsor,132 primrose ln,192150.0,375000.0,0.5124,residential,condo,95.16,Normal,normal,normal
+2020,2021-01-12,west hartford,22 sandhurst drive,198520.0,319900.0,0.6205,residential,single family,61.14,Normal,normal,town outlier
+2020,2021-03-12,west hartford,23 timberwood road,166670.0,305000.0,0.5464,residential,condo,83.0,Normal,normal,town outlier
+2021,2021-12-17,windsor locks,12 dibble hollow,109060.0,227000.0,0.4804,residential,condo,108.14,Normal,normal,normal
+2020,2021-07-06,west hartford,12 harwich lane,179970.0,300000.0,0.5999,residential,condo,66.69,Normal,normal,town outlier
+2021,2021-10-20,thompson,36 emil dr,115200.0,280000.0,0.4114,residential,single family,143.06,Normal,normal,normal
+2021,2022-06-03,ridgefield,434 limestone rd,281790.0,585000.0,0.4816,residential,single family,107.6,Normal,normal,normal
+2020,2020-11-03,west hartford,18 hugh street,156870.0,245000.0,0.6402,residential,single family,56.18,Normal,normal,town outlier
+2021,2022-01-19,norwalk,144 east ave unit 302b,280830.0,451000.0,0.6226,residential,condo,60.6,Normal,normal,town outlier
+2021,2021-12-06,stamford,19 cowing place,311840.0,569000.0,0.548,residential,single family,82.47,Normal,normal,town outlier
+2021,2022-07-11,redding,46 pheasant ridge rd,337300.0,605000.0,0.5575,residential,single family,79.37,Normal,normal,normal
+2021,2022-08-22,southington,55-2 columbus av,127920.0,265000.0,0.4827,residential,condo,107.16,Normal,normal,normal
+2021,2022-06-28,newington,90 sunrise cir,96070.0,209900.0,0.4576,residential,condo,118.49,Normal,normal,normal
+2021,2022-05-17,stamford,7 jessup street,359500.0,729750.0,0.4926,residential,single family,102.99,Normal,IQR outlier,town outlier
+2021,2021-11-08,south windsor,112 chapel rd,218600.0,275000.0,0.7949,residential,single family,25.8,Normal,normal,normal
+2021,2022-02-09,plainville,44 northampton lane,87780.0,165000.0,0.532,residential,condo,87.97,Normal,normal,normal
+2021,2021-10-04,fairfield,121 winnepoge drive,381640.0,691000.0,0.5523,residential,single family,81.06,Normal,normal,town outlier
+2021,2021-10-15,bloomfield,227 wintonbury ave #2,49000.0,100000.0,0.49,residential,condo,104.08,Normal,normal,normal
+2021,2022-03-22,coventry,255 brewster st,151800.0,260200.0,0.5833,residential,single family,71.41,Normal,normal,normal
+2021,2022-08-22,avon,20 garnet hill lane,610290.0,1250000.0,0.4882,residential,single family,104.82,IQR outlier,IQR outlier,normal
+2021,2022-07-14,fairfield,610 tunxis hill road,264390.0,555000.0,0.4763,residential,two family,109.92,Normal,normal,town outlier
+2021,2022-04-21,middletown,53 braeburn la,82420.0,115000.0,0.7166,residential,single family,39.53,Normal,normal,normal
+2021,2022-05-31,new britain,90 westwood dr,144550.0,350000.0,0.413,residential,single family,142.13,Normal,normal,normal
+2021,2022-08-30,guilford,308 river st,436580.0,950000.0,0.4595,residential,single family,117.6,Normal,IQR outlier,normal
+2021,2022-07-18,madison,205 dorset ln,262700.0,650000.0,0.4041,residential,single family,147.43,Normal,normal,normal
+2021,2022-07-19,hartland,47 south rd,115210.0,220000.0,0.5236,residential,single family,90.96,Normal,normal,normal
+2021,2022-07-05,guilford,438 willow rd,349780.0,755000.0,0.4632,residential,single family,115.85,Normal,IQR outlier,normal
+2021,2022-03-21,ansonia,93 high st,158700.0,370000.0,0.4289,residential,single family,133.14,Normal,normal,normal
+2021,2022-03-02,darien,30 country club road,1272880.0,2500863.0,0.508976301,residential,single family,96.47,IQR outlier,IQR outlier,normal
+2021,2022-03-01,guilford,5 salt meadow view ln,470290.0,880000.0,0.5344,residential,single family,87.12,IQR outlier,IQR outlier,normal
+2021,2022-07-11,new britain,121 clark st,91070.0,193500.0,0.4706,residential,two family,112.47,Normal,normal,normal
+2021,2021-12-01,bridgewater,5 keeler road,190300.0,330000.0,0.5766,residential,single family,73.41,Normal,normal,normal
+2021,2022-05-24,bristol,"155 redstone hill rd, u#57",67550.0,164900.0,0.4096,residential,condo,144.12,Normal,normal,normal
+2021,2022-04-08,canton,10 sugar camp road,195300.0,187500.0,1.0416,residential,single family,-3.99,Normal,normal,normal
+2021,2022-04-18,bristol,78 nicholas dr #78,75740.0,149900.0,0.5052,residential,condo,97.91,Normal,normal,normal
+2021,2022-07-11,ledyard,2 west dr,154630.0,250000.0,0.6185,residential,condo,61.68,Normal,normal,normal
+2021,2022-05-19,mansfield,41 maplewood rd,91900.0,189995.0,0.4836,residential,single family,106.74,Normal,normal,normal
+2021,2021-12-13,farmington,9 tanglewood rd,182670.0,360000.0,0.5074,residential,single family,97.08,Normal,normal,normal
+2021,2022-06-29,danbury,23 scuppo rd 1-2,88400.0,205000.0,0.4312,residential,condo,131.9,Normal,normal,town outlier
+2021,2022-03-28,monroe,107 harvester rd,229900.0,531000.0,0.4329,residential,single family,130.97,Normal,normal,normal
+2021,2022-08-30,hamden,510 river rd,237790.0,520000.0,0.4572,residential,single family,118.68,Normal,normal,town outlier
+2021,2021-11-12,bloomfield,134 tunxis ave,105540.0,210000.0,0.5025,residential,single family,98.98,Normal,normal,normal
+2021,2021-12-10,branford,136 turtle bay dr,178800.0,380900.0,0.4694,residential,condo,113.03,Normal,normal,normal
+2021,2022-04-26,fairfield,191 doreen drive,344050.0,1388000.0,0.24787464,residential,single family,303.43,Normal,IQR outlier,town outlier
+2021,2022-05-10,colebrook,404 colebrook road,311700.0,717500.0,0.4344,residential,single family,130.19,Normal,normal,normal
+2021,2022-02-09,bristol,68 judson avenue,76580.0,190000.0,0.403,residential,single family,148.11,Normal,normal,normal
+2021,2022-05-23,mansfield,275 browns rd,168700.0,380000.0,0.4439,residential,single family,125.25,Normal,normal,normal
+2021,2022-06-14,bethany,15 rainbow rd,179860.0,395000.0,0.4553,residential,single family,119.62,Normal,normal,normal
+2021,2021-12-02,new canaan,113 thurton dr,1700230.0,2485000.0,0.6841,residential,single family,46.16,IQR outlier,IQR outlier,normal
+2021,2022-09-22,bethel,11 cherry lane,168248.0,419000.0,0.401546539,residential,single family,149.04,Normal,normal,normal
+2021,2021-11-24,glastonbury,486 tall timbers rd,241900.0,399900.0,0.6049,residential,single family,65.32,Normal,normal,normal
+2021,2022-04-14,monroe,304c fairmount dr,107200.0,187500.0,0.5717,residential,condo,74.91,Normal,normal,normal
+2021,2022-03-07,bristol,85 illinois ave,135170.0,305000.0,0.443180328,residential,single family,125.64,Normal,normal,normal
+2021,2022-04-25,bristol,60 park st,89680.0,225000.0,0.3985,residential,two family,150.89,Normal,normal,normal
+2021,2022-05-13,berlin,86 kenwood st,167000.0,350000.0,0.4771,residential,single family,109.58,Normal,normal,normal
+2021,2022-07-11,danbury,37 golden hill rd,178000.0,185000.0,0.9621,residential,single family,3.93,Normal,normal,town outlier
+2021,2022-08-30,branford,35 turtle bay dr,337300.0,749000.0,0.4503,residential,condo,122.06,Normal,IQR outlier,normal
+2021,2022-09-12,canterbury,30 wauregan rd,205900.0,280000.0,0.7353,residential,single family,35.99,Normal,normal,normal
+2021,2021-11-23,haddam,1144 killingworth rd,244450.0,495000.0,0.4938,residential,single family,102.5,Normal,normal,normal
+2021,2022-01-28,farmington,7 cypress trail,140950.0,260000.0,0.5421,residential,condo,84.46,Normal,normal,normal
+2021,2021-11-22,ledyard,11 palmer dr,186200.0,359900.0,0.5173,residential,single family,93.29,Normal,normal,normal
+2021,2022-08-23,new canaan,745 carter st,918750.0,1387500.0,0.6621,residential,single family,51.02,IQR outlier,IQR outlier,normal
+2021,2022-07-14,danbury,8 kimberly tl,171100.0,215000.0,0.7958,residential,single family,25.66,Normal,normal,town outlier
+2021,2021-11-01,cromwell,262 skyview drive unit u-3,105910.0,235000.0,0.4506,residential,condo,121.89,Normal,normal,normal
+2021,2022-06-07,branford,55 meadow wood rd,273500.0,400000.0,0.6837,residential,single family,46.25,Normal,normal,normal
+2021,2022-07-26,monroe,63 birchwood rd,208100.0,465000.0,0.4475,residential,single family,123.45,Normal,normal,normal
+2021,2022-09-15,ellington,8 punkin dr,167560.0,349525.0,0.479393463,residential,single family,108.6,Normal,normal,normal
+2021,2021-12-17,glastonbury,77 kimberly ln,198000.0,395000.0,0.5012,residential,single family,99.49,Normal,normal,normal
+2021,2022-09-19,new britain,306 chestnut st,117180.0,200000.0,0.5859,residential,two family,70.68,Normal,normal,normal
+2021,2022-08-04,bristol,15 owsianko ln,148330.0,312000.0,0.4754,residential,single family,110.34,Normal,normal,normal
+2021,2022-08-17,essex,9 russet la,301300.0,775000.0,0.3887,residential,single family,157.22,Normal,IQR outlier,normal
+2021,2022-05-04,bridgeport,463 salem street,137630.0,350000.0,0.3932,residential,single family,154.31,Normal,normal,town outlier
+2021,2022-05-31,darien,36 richmond drive,589260.0,1100500.0,0.5354,residential,single family,86.76,IQR outlier,IQR outlier,normal
+2021,2022-06-29,bridgeport,20 manila pl #26,148210.0,262000.0,0.5656,residential,two family,76.78,Normal,normal,town outlier
+2021,2021-10-01,glastonbury,47 addison pond rd,113000.0,217000.0,0.5207,residential,condo,92.04,Normal,normal,normal
+2021,2022-07-12,mansfield,12c white oak condos,41200.0,94500.0,0.4359,residential,condo,129.37,Normal,normal,normal
+2021,2022-07-14,bethel,12 hunting ridge lane,89383.0,571581.0,0.1563,residential,condo,539.47,Normal,normal,normal
+2021,2022-04-01,coventry,89 standish rd,240200.0,360000.0,0.6672,residential,single family,49.88,Normal,normal,normal
+2021,2022-09-23,new britain,29 south mountain dr,114730.0,300000.0,0.3824,residential,single family,161.48,Normal,normal,normal
+2021,2022-08-25,granby,15 ice pond rd,194600.0,397250.0,0.4898,residential,single family,104.14,Normal,normal,normal
+2021,2022-05-10,bethel,79 payne road,219170.0,524112.0,0.4181,residential,single family,139.13,Normal,normal,normal
+2021,2022-09-30,killingly,104 franklin st,110320.0,250000.0,0.4412,residential,two family,126.61,Normal,normal,normal
+2021,2022-07-01,bridgeport,3012-c madison ave,62070.0,137500.0,0.4514,residential,condo,121.52,Normal,normal,town outlier
+2021,2022-02-07,branford,37 fenway rd,283600.0,471000.0,0.6021,residential,single family,66.08,Normal,normal,normal
+2021,2021-10-18,middletown,97 miner st,212990.0,459900.0,0.4631,residential,single family,115.93,Normal,normal,normal
+2021,2022-07-27,madison,281 old toll rd,165100.0,140000.0,1.1792,residential,single family,-15.2,Normal,normal,normal
+2021,2022-05-23,cromwell,98 woodland drive,60550.0,160000.0,0.3784,residential,condo,164.24,Normal,normal,normal
+2021,2022-02-22,danbury,60 state st,110000.0,245000.0,0.4489,residential,single family,122.73,Normal,normal,town outlier
+2021,2021-12-21,avon,73 bronson road,192600.0,259000.0,0.7436,residential,single family,34.48,Normal,normal,normal
+2021,2022-04-01,canton,59 wickhams fancy,156650.0,210000.0,0.7459,residential,condo,34.06,Normal,normal,normal
+2021,2022-04-04,guilford,98 saddle hill rd,218090.0,455000.0,0.4793,residential,single family,108.63,Normal,normal,normal
+2021,2022-07-21,harwinton,157 plymouth rd,172570.0,399000.0,0.4325,residential,single family,131.21,Normal,normal,normal
+2021,2022-05-31,guilford,1443 little meadow rd,362580.0,860000.0,0.4216,residential,single family,137.19,Normal,IQR outlier,normal
+2021,2022-07-19,glastonbury,79 bridlepath ln,182300.0,295000.0,0.6179,residential,single family,61.82,Normal,normal,normal
+2021,2022-07-08,new canaan,289 new norwalk rd-#5,657860.0,1011000.0,0.6507,residential,condo,53.68,IQR outlier,IQR outlier,normal
+2021,2022-04-26,cromwell,22 glenview drive unit 16 c4,126210.0,230000.0,0.5487,residential,condo,82.24,Normal,normal,normal
+2021,2021-11-17,hamden,48 furman rd,112700.0,230000.0,0.49,residential,single family,104.08,Normal,normal,town outlier
+2021,2022-09-08,bridgeport,452 summit st,214598.0,430000.0,0.499,residential,three family,100.37,Normal,normal,town outlier
+2021,2022-07-20,hamden,365 mather st u38,59710.0,135000.0,0.4422,residential,condo,126.09,Normal,normal,town outlier
+2021,2021-12-13,cheshire,13 abbey ct,177440.0,340000.0,0.5218,residential,single family,91.61,Normal,normal,normal
+2021,2022-09-26,hamden,41 homestead ave,163870.0,370000.0,0.4428,residential,two family,125.79,Normal,normal,town outlier
+2021,2022-08-08,ellington,1 jacobs hill rd,156560.0,360000.0,0.4348,residential,single family,129.94,Normal,normal,normal
+2021,2022-06-30,marlborough,137 jones hollow rd,176410.0,400000.0,0.441,residential,single family,126.74,Normal,normal,normal
+2021,2022-05-18,bridgeport,325 lafayette st  unit #4210,49770.0,123500.0,0.4029,residential,condo,148.14,Normal,normal,town outlier
+2021,2022-02-03,bristol,40 fern hill road,112840.0,237000.0,0.4761,residential,single family,110.03,Normal,normal,normal
+2021,2022-08-01,derby,14 homestead ave,159530.0,365000.0,0.437,residential,single family,128.8,Normal,normal,normal
+2021,2022-07-28,bethany,16 coachmans ln,406580.0,800000.0,0.5082,residential,single family,96.76,Normal,IQR outlier,normal
+2021,2021-10-15,farmington,29 farm dr,149710.0,281000.0,0.5327,residential,condo,87.7,Normal,normal,normal
+2021,2021-11-30,danbury,92 franklin st,118700.0,202000.0,0.5876,residential,single family,70.18,Normal,normal,town outlier
+2021,2021-12-06,essex,7 hanna la,1008200.0,3650000.0,0.2762,residential,single family,262.03,IQR outlier,IQR outlier,normal
+2021,2021-11-01,bethel,12 evergreen drive,205380.0,487000.0,0.4217,residential,single family,137.12,Normal,normal,normal
+2021,2022-08-19,hamden,746 shepard ave,157710.0,320000.0,0.4928,residential,single family,102.9,Normal,normal,town outlier
+2021,2022-08-05,new britain,53 audubon st,105140.0,235000.0,0.4474,residential,single family,123.51,Normal,normal,normal
+2021,2022-08-03,fairfield,451 south benson road,395080.0,725000.0,0.5449,residential,single family,83.51,Normal,normal,town outlier
+2021,2022-03-03,haddam,14 bartman rd,213350.0,382000.0,0.558507853,residential,single family,79.05,Normal,normal,normal
+2021,2022-07-26,bloomfield,17 oak lane,150570.0,300000.0,0.5019,residential,single family,99.24,Normal,normal,normal
+2021,2022-05-12,brooklyn,341 day st,82800.0,410000.0,0.2019,residential,single family,395.17,Normal,normal,normal
+2021,2022-02-23,bristol,76 osullivan drive,131320.0,245000.0,0.536,residential,single family,86.57,Normal,normal,normal
+2021,2022-01-14,fairfield,1353 mill plain road,272580.0,450000.0,0.6057,residential,single family,65.09,Normal,normal,town outlier
+2021,2022-02-23,new canaan,34 heritage hill rd-unit c,569520.0,940000.0,0.6058,residential,condo,65.05,IQR outlier,IQR outlier,normal
+2021,2022-08-26,cromwell,9 nordland avenue,148330.0,265000.0,0.5597,residential,single family,78.66,Normal,normal,normal
+2021,2022-08-16,ledyard,12 kings hwy,177730.0,280000.0,0.6347,residential,single family,57.54,Normal,normal,normal
+2021,2022-09-21,new britain,6 greenfield dr,86030.0,200000.0,0.4301,residential,single family,132.48,Normal,normal,normal
+2021,2022-05-16,bridgeport,230 lewis st,101210.0,265000.0,0.3819,residential,single family,161.83,Normal,normal,town outlier
+2021,2022-01-18,bethel,15 ravencrest drive,339290.0,660000.0,0.514,residential,single family,94.52,Normal,normal,normal
+2021,2022-09-07,farmington,58 mallard dr 85d,100070.0,208500.0,0.4799,residential,condo,108.35,Normal,normal,normal
+2021,2022-06-30,canton,3 drake lane,214100.0,397200.0,0.539,residential,single family,85.52,Normal,normal,normal
+2021,2021-10-21,middletown,157 front st,137120.0,202000.0,0.6788,residential,two family,47.32,Normal,normal,normal
+2021,2021-12-06,danbury,29 cleveland st 4,95100.0,270000.0,0.3522,residential,condo,183.91,Normal,normal,town outlier
+2021,2022-06-22,bridgewater,19 wewaka brook rd,401700.0,675000.0,0.5951,residential,single family,68.04,Normal,normal,normal
+2021,2022-01-03,bristol,82 fairfield st,122780.0,236000.0,0.5202,residential,single family,92.21,Normal,normal,normal
+2021,2022-08-15,avon,236 waterville road,169510.0,300000.0,0.565,residential,single family,76.98,Normal,normal,normal
+2021,2022-07-15,fairfield,17 longview avenue,321370.0,581780.0,0.5523,residential,two family,81.03,Normal,normal,town outlier
+2021,2021-12-20,chester,27 ridge rd,148020.0,83000.0,1.7833,residential,single family,-43.93,Normal,normal,normal
+2021,2022-08-10,new canaan,89 comstock hill rd,653660.0,1540000.0,0.4244,residential,single family,135.6,IQR outlier,IQR outlier,normal
+2021,2021-12-28,killingly,16 jefferson st,144690.0,305000.0,0.4743,residential,single family,110.8,Normal,normal,normal
+2021,2021-10-07,hamden,38 pembroke rd,118510.0,250000.0,0.474,residential,single family,110.95,Normal,normal,town outlier
+2021,2022-04-28,killingly,27 lewis blvd,122360.0,140000.0,0.874,residential,single family,14.42,Normal,normal,normal
+2021,2021-11-30,bridgeport,316 benham ave,141520.0,277000.0,0.5109,residential,single family,95.73,Normal,normal,town outlier
+2021,2021-10-19,danbury,135 brentwood ci,325900.0,661046.0,0.493,residential,condo,102.84,Normal,normal,town outlier
+2021,2021-11-18,ledyard,109 avery hill rd,83790.0,97785.0,0.8568,residential,single family,16.7,Normal,normal,normal
+2021,2022-04-14,fairfield,150 parkwood road,798770.0,1530000.0,0.522,residential,single family,91.54,IQR outlier,IQR outlier,town outlier
+2021,2022-01-03,guilford,234 mulberry point rd,177800.0,449000.0,0.3959,residential,single family,152.53,Normal,normal,normal
+2021,2022-03-07,danbury,55 cross st c-6,106300.0,225000.0,0.4724,residential,condo,111.67,Normal,normal,town outlier
+2021,2022-03-22,bristol,16 dudley st,67690.0,135000.0,0.5014,residential,two family,99.44,Normal,normal,normal
+2021,2022-03-28,kent,188 bulls bridge rd,162900.0,306500.0,0.5314,residential,single family,88.15,Normal,normal,normal
+2021,2022-04-05,new britain,130b-403 clinic dr,28350.0,70000.0,0.405,residential,condo,146.91,Normal,normal,normal
+2021,2022-01-10,burlington,45 savarese ln,118650.0,14000.0,8.475,residential,single family,-88.2,Normal,normal,normal
+2021,2021-10-01,new canaan,180 park st- unit d-207,1755670.0,3000000.0,0.5852,residential,condo,70.87,IQR outlier,IQR outlier,normal
+2021,2022-07-12,litchfield,26 sedgewick ln,215130.0,435000.0,0.4945,residential,three family,102.2,Normal,normal,normal
+2021,2021-10-12,madison,247b old toll rd & 142-3,178400.0,334900.0,0.5326,residential,single family,87.72,Normal,normal,normal
+2021,2021-11-30,guilford,240 deer ln,378050.0,730000.0,0.517876712,residential,single family,93.1,Normal,IQR outlier,normal
+2021,2022-05-31,branford,220 maple st,217400.0,380000.0,0.5721,residential,single family,74.79,Normal,normal,normal
+2021,2021-11-04,fairfield,3555 morehouse highway,333550.0,569000.0,0.5862,residential,single family,70.59,Normal,normal,town outlier
+2021,2021-12-03,hamden,1640 shepard ave,148890.0,265000.0,0.5618,residential,single family,77.98,Normal,normal,town outlier
+2021,2022-03-23,hamden,62 woodbine st,136150.0,205000.0,0.6641,residential,single family,50.57,Normal,normal,town outlier
+2021,2022-06-13,bridgeport,176 dayton rd,150370.0,255000.0,0.5896,residential,single family,69.58,Normal,normal,town outlier
+2021,2022-08-26,bristol,"155 redstone hill rd., #72",67690.0,145500.0,0.4652,residential,condo,114.95,Normal,normal,normal
+2021,2022-05-03,berlin,66 blue ridge dr,215000.0,430000.0,0.5,residential,single family,100.0,Normal,normal,normal
+2021,2022-06-22,bristol,31 ebert rd,109760.0,51752.94,2.120845695,residential,single family,-52.85,Normal,normal,normal
+2021,2021-12-28,ellington,109 orchard st,122630.0,195000.0,0.6288,residential,single family,59.01,Normal,normal,normal
+2021,2022-04-04,bethel,5 laura lane,108010.0,285000.0,0.3789,residential,condo,163.86,Normal,normal,normal
+2021,2022-09-16,naugatuck,246 may st,118550.0,255000.0,0.4649,residential,single family,115.1,Normal,normal,normal
+2021,2021-11-15,new britain,30 yeaton st,93660.0,125000.0,0.7492,residential,single family,33.46,Normal,normal,normal
+2021,2022-04-21,essex,34 fordham rd,303800.0,791000.0,0.384,residential,single family,160.37,Normal,IQR outlier,normal
+2021,2022-09-13,clinton,2 blake ave,366637.0,835000.0,0.439,residential,single family,127.75,Normal,IQR outlier,normal
+2021,2022-08-02,mansfield,66 ball hill rd,218600.0,375000.0,0.582933333,residential,single family,71.55,Normal,normal,normal
+2021,2022-07-28,hamden,312 battis rd,120120.0,259000.0,0.4637,residential,single family,115.62,Normal,normal,town outlier
+2021,2021-10-18,east haddam,29 falls bashan rd,204470.0,400000.0,0.5111,residential,single family,95.63,Normal,normal,normal
+2021,2022-08-15,middletown,5 yellow green rd,123020.0,255000.0,0.4824,residential,single family,107.28,Normal,normal,normal
+2021,2021-11-12,marlborough,102 pettengill rd,159850.0,315000.0,0.5074,residential,single family,97.06,Normal,normal,normal
+2021,2022-01-24,avon,13 cottonwood drive,119990.0,210000.0,0.5713,residential,condo,75.01,Normal,normal,normal
+2021,2021-11-23,bridgeport,3250 fairfield ave #205,113340.0,235000.0,0.482297872,residential,condo,107.34,Normal,normal,town outlier
+2021,2022-01-20,danbury,191 westville av,186000.0,425000.0,0.4376,residential,single family,128.49,Normal,normal,town outlier
+2021,2022-08-22,danbury,97 hayestown rd,215700.0,266039.0,0.810783381,residential,single family,23.34,Normal,normal,town outlier
+2021,2022-07-26,branford,f72 riverview crossing,75000.0,148000.0,0.5067,residential,condo,97.33,Normal,normal,normal
+2021,2021-11-16,bethany,530 bethmour rd,228780.0,375000.0,0.61,residential,single family,63.91,Normal,normal,normal
+2021,2021-12-28,easton,56 banks road,272580.0,375000.0,0.7268,residential,single family,37.57,Normal,normal,normal
+2021,2021-10-25,bridgeport,74-76 sanford pl,198670.0,321500.0,0.6179,residential,three family,61.83,Normal,normal,town outlier
+2021,2022-06-21,middletown,452 washington st,65760.0,170000.0,0.3868,residential,single family,158.52,Normal,normal,normal
+2021,2022-05-19,ansonia,14 n coe la,108800.0,170000.0,0.64,residential,single family,56.25,Normal,normal,normal
+2021,2022-07-21,east windsor,74 depot st,105520.0,274000.0,0.3851,residential,single family,159.67,Normal,normal,normal
+2021,2021-12-13,bristol,218 wolcott st,99930.0,32000.0,3.1228,residential,two family,-67.98,Normal,normal,normal
+2021,2022-04-12,naugatuck,99 lantern park drive #3,41970.0,140000.0,0.2997,residential,condo,233.57,Normal,normal,normal
+2021,2022-01-20,east windsor,26 wolfersdorf rd,140160.0,307500.0,0.4558,residential,single family,119.39,Normal,normal,normal
+2021,2022-01-24,bristol,20 ward st,96320.0,232500.0,0.4142,residential,two family,141.38,Normal,normal,normal
+2021,2022-07-28,hamden,80 martin tr,172900.0,385000.0,0.449,residential,single family,122.67,Normal,normal,town outlier
+2021,2022-03-24,new canaan,148 brushy ridge rd,691950.0,1601000.0,0.4321,residential,single family,131.38,IQR outlier,IQR outlier,normal
+2021,2021-10-04,branford,10 wilford ave,200200.0,390000.0,0.5133,residential,two family,94.81,Normal,normal,normal
+2021,2022-04-29,easton,36 far horizons drive,204890.0,269000.0,0.7616,residential,single family,31.29,Normal,normal,normal
+2021,2022-06-23,fairfield,279 reid street,286580.0,400000.0,0.7164,residential,single family,39.58,Normal,normal,town outlier
+2021,2022-04-29,bethlehem,89 long meadow rd,229900.0,561850.0,0.4091,residential,single family,144.39,Normal,normal,normal
+2021,2021-10-13,danbury,55 oil mill rd 22,82200.0,164000.0,0.5012,residential,condo,99.51,Normal,normal,town outlier
+2021,2022-06-23,derby,277 olivia st,185150.0,345000.0,0.5366,residential,two family,86.34,Normal,normal,normal
+2021,2022-09-01,berlin,7 pequot circle,236500.0,430000.0,0.55,residential,single family,81.82,Normal,normal,normal
+2021,2022-05-19,bolton,152 hebron rd,136700.0,360000.0,0.3797,residential,single family,163.35,Normal,normal,normal
+2021,2022-05-10,cheshire,148 eastgate dr,179240.0,450000.0,0.3983,residential,single family,151.06,Normal,normal,normal
+2021,2022-09-09,bridgeport,288 carroll ave,91870.0,141224.0,0.6505,residential,single family,53.72,Normal,normal,town outlier
+2021,2021-12-27,branford,19 leetes island rd #37,36000.0,99000.0,0.3636,residential,single family,175.0,Normal,normal,normal
+2021,2022-06-13,bridgeport,160 wake st #162,160290.0,250000.0,0.6411,residential,single family,55.97,Normal,normal,town outlier
+2021,2022-02-14,hamden,1319 dunbar hill rd,132650.0,155000.0,0.8558,residential,single family,16.85,Normal,normal,town outlier
+2021,2022-08-16,bridgeport,170 lakeside ave,164530.0,385000.0,0.4273,residential,single family,134.0,Normal,normal,town outlier
+2021,2022-05-23,fairfield,350 morehouse highway,315350.0,650000.0,0.4851,residential,single family,106.12,Normal,normal,town outlier
+2021,2022-05-16,naugatuck,307 park avenue,129610.0,290000.0,0.4469,residential,single family,123.75,Normal,normal,normal
+2021,2022-05-31,danbury,160 shelter rock rd 8,113000.0,278000.0,0.4064,residential,condo,146.02,Normal,normal,town outlier
+2021,2022-06-16,hamden,84 broadway,93380.0,120000.0,0.7781,residential,single family,28.51,Normal,normal,town outlier
+2021,2022-04-18,glastonbury,117 three mile rd,195100.0,412000.0,0.4735,residential,single family,111.17,Normal,normal,normal
+2021,2022-02-14,bridgeport,333 vincellette st unit #23,66420.0,145000.0,0.458068966,residential,condo,118.31,Normal,normal,town outlier
+2021,2022-04-28,danbury,12 moorland dr,272000.0,640000.0,0.425,residential,condo,135.29,Normal,normal,town outlier
+2021,2021-11-17,fairfield,51 taquoshe place,494340.0,1250000.0,0.3954,residential,single family,152.86,IQR outlier,IQR outlier,town outlier
+2021,2021-11-23,avon,46 lakeview boulevard,132120.0,255000.0,0.5181,residential,single family,93.01,Normal,normal,normal
+2021,2022-05-27,bridgeport,325 lafayette st unit #1204,51510.0,150000.0,0.3434,residential,condo,191.21,Normal,normal,town outlier
+2021,2022-06-06,bristol,"98 skyridge rd., #1-4-1",73500.0,165000.0,0.4454,residential,condo,124.49,Normal,normal,normal
+2021,2022-08-17,bridgeport,371 wood ave #373,187014.0,375000.0,0.4987,residential,three family,100.52,Normal,normal,town outlier
+2021,2022-06-30,granby,13 cranberry ln,176260.0,399900.0,0.4407,residential,single family,126.88,Normal,normal,normal
+2021,2021-10-20,ledyard,1897 center groton rd,283920.0,500000.0,0.5678,residential,single family,76.11,Normal,normal,normal
+2021,2022-06-20,danbury,39 gregory st,200500.0,325000.0,0.6169,residential,single family,62.09,Normal,normal,town outlier
+2021,2022-08-29,glastonbury,23 crossroads ln,146700.0,380000.0,0.386,residential,condo,159.03,Normal,normal,normal
+2021,2022-01-24,darien,9 clubhouse circle,869820.0,1507500.0,0.5769,residential,single family,73.31,IQR outlier,IQR outlier,normal
+2021,2021-11-08,bolton,68 high ridge farm lane,475100.0,620000.0,0.7662,residential,single family,30.5,IQR outlier,normal,normal
+2021,2021-12-06,danbury,1 high fields dr,392700.0,599000.0,0.6555,residential,single family,52.53,Normal,normal,town outlier
+2021,2022-09-29,hamden,148 putnam ave,124390.0,250000.0,0.4975,residential,single family,100.98,Normal,normal,town outlier
+2021,2022-04-14,ansonia,25 edgewood ave,120000.0,325000.0,0.3692,residential,single family,170.83,Normal,normal,normal
+2021,2021-11-01,bolton,24 bayberry rd,105900.0,250000.0,0.4236,residential,single family,136.07,Normal,normal,normal
+2021,2021-12-06,branford,85 pinski dr,132200.0,285000.0,0.4638,residential,single family,115.58,Normal,normal,normal
+2021,2022-08-09,bloomfield,124 cottage grove rd,107430.0,250000.0,0.4297,residential,single family,132.71,Normal,normal,normal
+2021,2021-10-22,bridgeport,556-558 pearl harbor st,154810.0,200000.0,0.774,residential,two family,29.19,Normal,normal,town outlier
+2021,2021-12-03,new britain,146 fairview st,126350.0,350000.0,0.361,residential,two family,177.01,Normal,normal,normal
+2021,2021-10-08,easton,32 palmer place,573230.0,805000.0,0.712,residential,single family,40.43,IQR outlier,IQR outlier,normal
+2021,2022-03-31,bristol,99 council ring dr,103110.0,286000.0,0.3605,residential,single family,177.37,Normal,normal,normal
+2021,2022-04-05,madison,65a middle beach rd,823700.0,1345000.0,0.6124,residential,single family,63.29,IQR outlier,IQR outlier,normal
+2021,2021-10-14,new britain,95 clinton st,85260.0,200000.0,0.4263,residential,single family,134.58,Normal,normal,normal
+2021,2021-11-16,hamden,133 armory st,228970.0,560000.0,0.4088,residential,single family,144.57,Normal,normal,town outlier
+2021,2022-09-06,bloomfield,5 ryefield hollow dr,190120.0,406000.0,0.4682,residential,single family,113.55,Normal,normal,normal
+2021,2022-01-28,madison,31 nortontown rd,210200.0,250000.0,0.8408,residential,single family,18.93,Normal,normal,normal
+2021,2022-03-03,cheshire,1632 plank rd,163880.0,295000.0,0.5555,residential,single family,80.01,Normal,normal,normal
+2021,2022-08-09,new fairfield,7 rock ridge rd,429000.0,900000.0,0.476666667,residential,single family,109.79,Normal,IQR outlier,normal
+2021,2022-05-05,fairfield,2032 north benson road,336350.0,750000.0,0.4484,residential,single family,122.98,Normal,IQR outlier,town outlier
+2021,2022-06-02,bloomfield,11 arrowwood lane,206080.0,443500.0,0.4646,residential,single family,115.21,Normal,normal,normal
+2021,2021-11-30,bridgeport,1017 howard ave,169327.0,280000.0,0.6047,residential,three family,65.36,Normal,normal,town outlier
+2021,2022-07-06,chester,6 prospect st,149930.0,404000.0,0.371113861,residential,single family,169.46,Normal,normal,normal
+2021,2022-08-01,east windsor,24 maple ave,118440.0,210700.0,0.5621,residential,single family,77.9,Normal,normal,normal
+2021,2021-11-02,glastonbury,254 foote rd,229000.0,370000.0,0.6189,residential,single family,61.57,Normal,normal,normal
+2021,2022-08-24,danbury,17 harvest hill rd,226200.0,425000.0,0.5322,residential,single family,87.89,Normal,normal,town outlier
+2021,2022-07-07,monroe,73 greenwood ln,338600.0,610000.0,0.555,residential,single family,80.15,Normal,normal,normal
+2021,2022-06-23,cheshire,218 contour dr,152790.0,280000.0,0.5456,residential,single family,83.26,Normal,normal,normal
+2021,2021-10-26,hamden,365 mather st u84,73290.0,156000.0,0.4698,residential,condo,112.85,Normal,normal,town outlier
+2021,2021-10-29,bristol,505 + 545 redstone hill rd + l,487690.0,565000.0,0.8631,residential,single family,15.85,IQR outlier,normal,normal
+2021,2022-08-31,darien,27 hollow tree ridge rd,499450.0,980000.0,0.5096,residential,single family,96.22,IQR outlier,IQR outlier,normal
+2021,2022-04-11,hamden,351 knob hill dr,209090.0,200000.0,1.0454,residential,single family,-4.35,Normal,normal,town outlier
+2021,2022-02-16,chaplin,96 england rd,117100.0,220000.0,0.5322,residential,single family,87.87,Normal,normal,normal
+2021,2022-06-17,bristol,"426 emmett st., unit #47",48020.0,130000.0,0.3693,residential,condo,170.72,Normal,normal,normal
+2021,2022-08-19,bethel,3 eagle rock hill,118440.0,325000.0,0.3644,residential,condo,174.4,Normal,normal,normal
+2021,2022-08-08,branford,183 maple st,169300.0,370000.0,0.4575,residential,single family,118.55,Normal,normal,normal
+2021,2022-01-28,fairfield,635 stillson road,365540.0,649000.0,0.5632,residential,single family,77.55,Normal,normal,town outlier
+2021,2021-12-27,farmington,5-f staunton court,130500.0,143877.0,0.907,residential,condo,10.25,Normal,normal,normal
