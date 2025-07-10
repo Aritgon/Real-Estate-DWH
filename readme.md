@@ -1,10 +1,11 @@
 ## 📄 About the Dataset
 The dataset was sourced from **Kaggle** and originally contained approximately **1 million** records of real estate transactions.
 
-- For github's storage restrictions, I uploaded a sample of the data in the `\data` field. 
+- For github's storage restrictions, I uploaded the main dataset in google drive. 
+- I've only uploaded a sameple data from the full dataset in `data` file.
 
-> Download the dataset:
-![Link of the dataset](https://drive.google.com/drive/folders/16NAgq64JgW7JhgnNT0FSgh0hO-6cIdMZ?usp=drive_link)
+> Download the dataset: 
+![Link of the dataset](https://drive.google.com/drive/folders/16NAgq64JgW7JhgnNT0FSgh0hO-6cIdMZ?usp=sharing)
 
 During initial exploration, several columns were found to be heavily skewed or sparsely populated:
 
