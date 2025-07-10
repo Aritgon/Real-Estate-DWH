@@ -73,14 +73,14 @@ The final warehouse consists of:
 
 A **star schema** is one of the most effective data modeling techniques in data warehousing for the following reasons:
 
-- 1. Simplifies complex queries for reporting and dashboarding
-- 2. Optimizes performance through de-normalized dimension tables
-- 3. Easy to join using surrogate keys (fact-to-dimension)
-- 4. Well-supported by BI tools like Power BI, Tableau, and Looker
+- Simplifies complex queries for reporting and dashboarding
+- Optimizes performance through de-normalized dimension tables
+- Easy to join using surrogate keys (fact-to-dimension)
+- Well-supported by BI tools like Power BI, Tableau, and Looker
 
 Below is a diagram of the data warehouse:
 
-![Star schema diagram](pngs/DW%20schema.png)
+![Star schema diagram](pngs/Real%20Estate%20diagram.png)
 
 ---
 
@@ -95,7 +95,7 @@ Even though this was primarily a data warehouse and ETL-focused project, I perfo
 > This time-based analysis focuses on the period from **2018 to 2023**, capturing pre-COVID, during-COVID, and post-COVID patterns in the real estate market.
 
 
-###  Key Insights
+### Covid analysis Key Insights
 
 1. A total of **$113B** in property sales occurred between 2018–2023, covering **44.84%** of the full dataset's timespan — highlighting the significant economic impact COVID had on real estate market behavior.
 Also, 
