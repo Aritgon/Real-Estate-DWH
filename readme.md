@@ -4,7 +4,7 @@ The dataset was sourced from **Kaggle** and originally contained approximately *
 - For github's storage restrictions, I uploaded a sample of the data in the `\data` field. 
 
 > Download the dataset:
-![Link of the dataset](https://drive.google.com/open?id=16NAgq64JgW7JhgnNT0FSgh0hO-6cIdMZ&usp=drive_fs)
+![Link of the dataset](https://drive.google.com/drive/folders/16NAgq64JgW7JhgnNT0FSgh0hO-6cIdMZ?usp=drive_link)
 
 During initial exploration, several columns were found to be heavily skewed or sparsely populated:
 
@@ -91,6 +91,7 @@ Even though this was primarily a data warehouse and ETL-focused project, I perfo
 
 
 ![COVID Analysis](pngs/Covid%20analysis.png)
+
 
 > This time-based analysis focuses on the period from **2018 to 2023**, capturing pre-COVID, during-COVID, and post-COVID patterns in the real estate market.
 
