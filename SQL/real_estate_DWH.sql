@@ -153,8 +153,7 @@ alter column sales_ratio type decimal(10,2)
 using sales_ratio::decimal(10,2);
 
 -- ****************************************************************************
--- as the dataset was filled with many data anomalies. It was better to clean it again using pandas and load it in the same warehouse for better
--- modelling approach.
+-- as the dataset was filled with many data anomalies. It was better to clean it again using pandas and load it in the same warehouse for better modelling approach.
 
 truncate table dim_date cascade;
 truncate table dim_property cascade;
